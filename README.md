@@ -1,4 +1,4 @@
-# Hacker-s-Flasdrive
+# Hacker-s-Flashdrive
 In this I have Installed Kali Linux on Flasdrive and using some of the tools I have made the data to be stored on flashdrive persistent, 
 which means that after performing any operation or after carrying task on Kali linux, data will be stored in the flashdrive itself and not  on the Computer,s RAM
 
